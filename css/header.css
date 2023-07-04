@@ -1,0 +1,19 @@
+.header_bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.header_icon img {
+  width: 25px;
+  height: 25px;
+}
+
+#header_icon_second {
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 10%;
+}

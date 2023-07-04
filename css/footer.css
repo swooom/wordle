@@ -1,0 +1,35 @@
+.line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line-block {
+  width: 45px;
+  height: 50px;
+  margin: 5px;
+  background-color: rgb(211, 214, 218);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 7px;
+
+  font-size: 22px;
+  font-weight: bolder;
+
+  border-radius: 4px;
+}
+
+#big-key {
+  width: 75px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5px;
+}
+
+#big-key img {
+  width: 25px;
+}
